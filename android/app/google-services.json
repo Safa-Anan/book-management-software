@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1094944452811",
+    "firebase_url": "https://book-management-software-default-rtdb.firebaseio.com",
+    "project_id": "book-management-software",
+    "storage_bucket": "book-management-software.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094944452811:android:dda01926aa0c13ee99ab4e",
+        "android_client_info": {
+          "package_name": "com.example.book_management_software"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094944452811-6emrobge3kkub6vuorq4r9al57irk306.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9HP28CDKu9P44LBmP5sWAmo9QBCxC0To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094944452811-6emrobge3kkub6vuorq4r9al57irk306.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
